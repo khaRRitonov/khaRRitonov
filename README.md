@@ -6,7 +6,11 @@
    <a href="https://github.com/khaRRitonov/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaRRitonov&layout=compact"/></a>
 </p>
+
 <p align='center'>
+   <a href='mailto:xaritonof@gmail.com'>
+       <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-mail-100.png"/>
+   </a>
    <a href="https://t.me/khaRRitonov">
        <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-telegram-app-100.png"/>
    </a>
