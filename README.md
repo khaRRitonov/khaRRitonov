@@ -19,7 +19,9 @@
 
 ## 🛠 Technology`s
 *   C/C++
-*   STL, Boost, Boost.Asio, WinSocket, WinAPI
+*   STL, Boost, Boost.Asio
+*   WinSock, WinAPI
+*   Git, GitHub
 
 ### My opensource projects
 
