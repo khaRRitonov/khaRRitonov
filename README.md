@@ -13,6 +13,16 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a>
 </p>
+### Key points
+*   Currently working in [Epam Systems]
+
+## 🛠 Technology
+*   C/C++
+*   STL, Boost, WinSocket, WinAPI
+
+### My opensource projects
+
+*   [Internet Relay Chat](https://github.com/khaRRitonov) - Simple server/client for real time messaging. For Windows operating systems.
 <!--
 **khaRRitonov/khaRRitonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
