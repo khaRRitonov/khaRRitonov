@@ -15,10 +15,10 @@
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a>
 </p>
 
-## 🔭 Key points
+### 🔭 Key points
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
 
-## 🛠 Technology`s
+### 🛠 Technology`s
 *   C/C++
 *   STL, Boost, Boost.Asio
 *   WinSock, WinAPI
