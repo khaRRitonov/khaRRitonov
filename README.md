@@ -14,7 +14,7 @@
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a>
 </p>
 ### Key points
-*   Currently working in [Epam Systems]
+*   I am currently working on my own project at [home].
 
 ## 🛠 Technology
 *   C/C++
