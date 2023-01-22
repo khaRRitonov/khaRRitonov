@@ -15,7 +15,7 @@
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a>
 </p>
 
-### Key points
+## 🔭 Key points
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
 
 ## 🛠 Technology`s
@@ -24,7 +24,7 @@
 *   WinSock, WinAPI
 *   Git, GitHub
 
-### My opensource projects
+### 🌱 My opensource projects
 
 *   [Internet Relay Chat](https://github.com/khaRRitonov) - Simple server/client for real time messaging. For Windows operating systems.
 <!--
