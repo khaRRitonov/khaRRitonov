@@ -8,7 +8,7 @@
 </p>
 <p align='center'>
    <a href="https://t.me/khaRRitonov">
-       <img src="https://icons8.com/icon/112164/telegram-app"/>
+       <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-telegram-app-100.png"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a>
