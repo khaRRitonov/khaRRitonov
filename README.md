@@ -7,7 +7,7 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaRRitonov&layout=compact"/></a>
 </p>
 <p align='center'>
-   <a href="https://tlgg.ru/khaRritonov">
+   <a href="https://t.me/khaRRitonov">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
