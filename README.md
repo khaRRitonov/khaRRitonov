@@ -1,5 +1,5 @@
 ### Hi, I`m Vladimir 👋 
-### I am a beginner C++ developer. I know C/C++. You can contact me by [e`mail](mailto:xaritonof@gmail.com) or [telegram](https://t.me/khaRRitonov).
+### I am a beginner C++ developer. I know C/C++. You can contact me by e`mail or telegram.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true"/></a>
@@ -8,15 +8,12 @@
 </p>
 
 <p align='center'>
-   <a href='mailto:xaritonof@gmail.com'>
-       <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-mail-100.png"/>
-   </a>
    <a href="https://t.me/khaRRitonov">
        <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-telegram-app-100.png"/>
    </a>
-<!-- <p align='center'>
+<p align='center'>
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a>
-</p> -->
+</p>
 
 ### Key points
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
