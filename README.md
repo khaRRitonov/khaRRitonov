@@ -1,5 +1,5 @@
 ### Hi, I`m Vladimir 👋 
-### I am a beginner C++ developer. I know C/C++. You can contact me by e`mail.
+### I am a beginner C++ developer. I know C/C++. You can contact me by e`mail or telegram.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true"/></a>
