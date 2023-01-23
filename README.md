@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-   <a href="https://t.me/khaRRitonov">
+   <a target="_blank" href="https://t.me/khaRRitonov">
        <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-telegram-app-100.png"/>
    </a>
 <p align='center'><b>
