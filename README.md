@@ -19,9 +19,9 @@
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
 
 ## 🛠 Technology`s
-*   C, C++
+*   C++
 *   STL, Boost, Boost.Asio
-*   WinSock, WinAPI
+*   WinSock, TCP/IP
 *   Git, GitHub
 
 ### 🌱 My opensource projects
