@@ -21,7 +21,7 @@
 ## 🛠 Technology`s
 *   C++
 *   STL, Boost, Boost.Asio
-*   WinSock, TCP/IP
+*   TCP/IP
 *   Git, GitHub
 
 ### 🌱 My opensource projects
