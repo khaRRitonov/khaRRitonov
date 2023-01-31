@@ -26,7 +26,7 @@
 
 ### 🌱 My opensource projects
 
-*   [Internet Relay Chat](https://github.com/khaRRitonov/Internet_Relay_Chat) - Simple server/client for real time messaging. For Windows operating systems.
+*   [Internet Relay Chat](https://github.com/khaRRitonov/Internet_Relay_Chat) - Simple server/client for real time messaging.
 <!--
 **khaRRitonov/khaRRitonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
