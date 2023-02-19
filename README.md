@@ -1,4 +1,4 @@
-### Hi, I`m Vladimir 👋 
+### Hi, I`m Vladimir 👋
 ### I am a beginner C++ developer. I know C and C++. You can contact me by e`mail or telegram.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
