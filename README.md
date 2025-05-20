@@ -1,5 +1,5 @@
 ### Всем привет! 👋
-### I am a beginner C++ developer. I know C and C++. You can contact me by e`mail or telegram.
+### Я увлекаюсь Web разработкой. Разбираюсь в HTML и CSS, программирую на JavaScript и PHP. Вы можите свезаться со мной через почту или телеграм.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true"/></a>
@@ -18,13 +18,13 @@
 ### 🔭 Key points
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
 
-## 🛠 Technology`s
-*   C++
-*   STL, Boost, Boost.Asio
+## 🛠 Технологии 
+*   HTML, CSS
+*   JavaScript, PHP
 *   TCP/IP
 *   Git, GitHub
 
-### 🌱 My opensource projects
+### 🌱 Мои проекты 
 
 *   [Internet Relay Chat](https://github.com/khaRRitonov/Internet_Relay_Chat) - Simple server and client for real time messaging. Created using the Boost library.
 <!--
