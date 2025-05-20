@@ -1,5 +1,5 @@
-### Всем привет! 👋
-### Я увлекаюсь Web разработкой. Разбираюсь в HTML и CSS, программирую на JavaScript и PHP. Свяжитесь со мной через почту или телеграм.
+# Всем привет! 👋
+## Я увлекаюсь Web разработкой. Разбираюсь в HTML и CSS, программирую на JavaScript и PHP. Свяжитесь со мной через почту или телеграм.
 <!--<p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true"/></a>
