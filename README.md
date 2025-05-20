@@ -1,5 +1,5 @@
 ### Всем привет! 👋
-### Я увлекаюсь Web разработкой. Разбираюсь в HTML и CSS, программирую на JavaScript и PHP. Вы можите свезаться со мной через почту или телеграм.
+### Я увлекаюсь Web разработкой. Разбираюсь в HTML и CSS, программирую на JavaScript и PHP. Свяжитесь со мной через почту или телеграм.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true"/></a>
@@ -15,10 +15,10 @@
    📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a></b>
 </p>
 
-### 🔭 Key points
+### 🔭 В работе
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
 
-## 🛠 Технологии 
+### 🛠 Технологии 
 *   HTML, CSS
 *   JavaScript, PHP
 *   TCP/IP
