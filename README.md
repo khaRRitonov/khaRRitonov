@@ -6,16 +6,15 @@
    <a href="https://github.com/khaRRitonov/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaRRitonov&layout=compact"/></a>
 </p>-->
-
-<p align='center'>
-   <a href="https://t.me/khaRRitonov" target="_blank">
-       <img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-telegram-app-100.png"/>
-   </a>
-<p align='center'><b>
-   📫 How to reach me: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a></b>
+<div border='1px'>
+<p align='left'> <b>📱 Телеграм: <a href="https://t.me/khaRRitonov" target="_blank">khaRRitonov
+       <!--<img src="https://github.com/khaRRitonov/khaRRitonov/blob/main/icons8-telegram-app-100.png"/>-->
+   </a></b></p>
+<p align='left'><b> 📫 E'mail: <a href='mailto:xaritonof@gmail.com'>xaritonof@gmail.com</a></b>
 </p>
+</div>
 
-### 🔭 В работе
+### 🔩 В работе
 *   I am currently working on my own project at [home](https://github.com/khaRRitonov).
 
 ### 🛠 Технологии 
@@ -24,7 +23,7 @@
 *   TCP/IP
 *   Git, GitHub
 
-### 🌱 Мои проекты 
+### 💻 Мои проекты 
 
 *   [Internet Relay Chat](https://github.com/khaRRitonov/Internet_Relay_Chat) - Simple server and client for real time messaging. Created using the Boost library.
 <!--
