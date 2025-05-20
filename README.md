@@ -1,11 +1,11 @@
 ### Всем привет! 👋
 ### Я увлекаюсь Web разработкой. Разбираюсь в HTML и CSS, программирую на JavaScript и PHP. Свяжитесь со мной через почту или телеграм.
-<p align='center'>
+<!--<p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=khaRRitonov&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/khaRRitonov/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaRRitonov&layout=compact"/></a>
-</p>
+</p>-->
 
 <p align='center'>
    <a href="https://t.me/khaRRitonov" target="_blank">
